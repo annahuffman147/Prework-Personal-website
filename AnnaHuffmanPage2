@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<script src="jquery.js"></script>
+		<script src="mainjs.js"></script>
+		<link rel="stylesheet" href="AnnaHuffman.css">
+		<meta charset="utf-8">
+		<title>Anna Huffman</title>
+	</head>
+	<body>
+		<h1>How do I feel about starting Galvanize and my new career?</h1>
+		<p>Like catching a moving jet!</p>
+		<video poster="https://media.giphy.com/media/wQ4Eq1e6jMnIc/200_s.gif" style="margin:0;padding:0" width="500" height="205" autoplay="" loop="">
+            <source src="http://media.giphy.com/media/wQ4Eq1e6jMnIc/giphy.mp4" type="video/mp4">
+            Your browser does not support the mp4 video codec.
+        </video>
+		<p>Super excited!</p>
+		<video id="gif-mp4" poster="https://media.giphy.com/media/Ftz07proVX6Rq/200_s.gif" style="margin:0;padding:0" width="200" height="151" autoplay="" loop="">
+            <source src="http://media.giphy.com/media/Ftz07proVX6Rq/giphy.mp4" type="video/mp4">
+            Your browser does not support the mp4 video codec.
+        </video>
+		<p>Curious and ready to learn!</p>
+		<video id="gif-mp4" poster="https://media.giphy.com/media/P9i7EtvplNPKE/200_s.gif" style="margin:0;padding:0" width="500" height="234" autoplay="" loop="">
+            <source src="http://media.giphy.com/media/P9i7EtvplNPKE/giphy.mp4" type="video/mp4">
+            Your browser does not support the mp4 video codec.
+        </video>
+		<p>This nervous!</p>
+		<video id="gif-mp4" poster="https://media.giphy.com/media/RCrEKpQDzRUFa/200_s.gif" style="margin:0;padding:0" width="499" height="375" autoplay="" loop="">
+            <source src="http://media.giphy.com/media/RCrEKpQDzRUFa/giphy.mp4" type="video/mp4">
+            Your browser does not support the mp4 video codec.
+        </video>
+		<p>Too many moving parts!</p>
+		<img src="http://identitydesigned.com/images/dosdecadatres/ips_26.gif"> 
+	</body>
+</html>
